@@ -1,2 +1,0 @@
-- Llama - run llms locally on cpu 
-- emotion recognition through speech 
